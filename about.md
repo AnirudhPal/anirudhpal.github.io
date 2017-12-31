@@ -54,8 +54,8 @@ Lets make this a sequence of events. *Sheldon Cooper:* 'According to many studie
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
 
-<!--- Create Division --->
-<div id="mapdiv" style="width: 1000px; height: 450px;"></div>
+<!--- Create Division (Fix Centering Issues) --->
+<div id="mapdiv" style="width: 750px; height: 300px;"></div>
 
 <!--- Custom Script --->
 <script type="text/javascript">
@@ -63,6 +63,7 @@ Lets make this a sequence of events. *Sheldon Cooper:* 'According to many studie
   var map = AmCharts.makeChart("mapdiv",{
 
     // Map Settings
+    align: "center",
     type: "map",
     theme: "dark",
     projection: "eckert5",
