@@ -111,7 +111,7 @@ I think traveling is something I can claim to have some experience in. I haven't
 #### High School Years in Dubai, UAE.
 {:center_img}
 
-![myface](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/10626504_285696288291574_428361961027437700_n.jpg?oh=47f61d2b35ef8f257363293d1d71913e&oe=5AB07297 "Visit to the Beach with my BFFs. BTW, I am the person on the top."){:height="600px"}
+![jbrbeach](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/10626504_285696288291574_428361961027437700_n.jpg?oh=47f61d2b35ef8f257363293d1d71913e&oe=5AB07297 "Visit to the Beach with my BFFs. BTW, I am the person on the top."){:height="600px"}
 {:center_img}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -120,7 +120,7 @@ High School was by far the best part of my life. Its had its ups and downs but i
 #### College in West Lafayette, Indiana, USA.
 {:center_img}
 
-![myface](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/14611071_10206292075055877_1205835522742700599_n.jpg?oh=c6d1e0562258667c82155667ad41890b&oe=5AB69096 "River Rafting with my friend Harsh. We flipped the boat few moments after this picture.")
+![someriver](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/14611071_10206292075055877_1205835522742700599_n.jpg?oh=c6d1e0562258667c82155667ad41890b&oe=5AB69096 "River Rafting with my friend Harsh. We flipped the boat few moments after this picture."){:width="600px"}
 {:center_img}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
