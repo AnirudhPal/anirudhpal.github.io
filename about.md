@@ -67,8 +67,8 @@ Lets make this a sequence of events. *Sheldon Cooper:* 'According to many studie
     theme: "dark",
     projection: "eckert5",
     panEventsEnabled : true,
-    backgroundColor : "#535364",
-    backgroundAlpha : 1,
+    backgroundColor : "#FDFDFD",
+    backgroundAlpha : 0,
     zoomControl: {
       zoomControlEnabled : false
     },
@@ -104,11 +104,11 @@ Lets make this a sequence of events. *Sheldon Cooper:* 'According to many studie
     areasSettings : {
       autoZoom : true,
       color : "#B4B4B7",
-      colorSolid : "#84ADE9",
-      selectedColor : "#84ADE9",
-      outlineColor : "#666666",
-      rollOverColor : "#9EC2F7",
-      rollOverOutlineColor : "#000000"
+      colorSolid : "#000000",
+      selectedColor : "#000000",
+      outlineColor : "#FDFDFD",
+      rollOverColor : "#000000",
+      rollOverOutlineColor : "#FDFDFD"
     }
   });
 </script>
