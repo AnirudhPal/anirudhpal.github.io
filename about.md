@@ -53,6 +53,7 @@ Lets make this a sequence of events. *Sheldon Cooper:* 'According to many studie
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
+<script src="https://www.amcharts/plugins/responsive/responsive.min.js" type="text/javascript"></script>
 
 <!--- Create Division (Fix Centering Issues) --->
 <div id="mapdiv" style="width: 750px; height: 300px;"></div>
@@ -64,6 +65,7 @@ Lets make this a sequence of events. *Sheldon Cooper:* 'According to many studie
 
     // Map Settings
     align: "center",
+    "responsive": { "enabled": true },
     type: "map",
     theme: "dark",
     projection: "eckert5",
