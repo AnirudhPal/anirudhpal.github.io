@@ -105,7 +105,7 @@ Lets make this a sequence of events. *Sheldon Cooper:* 'According to many studie
       autoZoom : true,
       color : "#B4B4B7",
       colorSolid : "#000000",
-      selectedColor : "#84ADE9",
+      selectedColor : "#000000",
       outlineColor : "#FDFDFD",
       rollOverColor : "#000000",
       rollOverOutlineColor : "#FDFDFD"
