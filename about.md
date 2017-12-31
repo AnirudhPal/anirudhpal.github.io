@@ -49,115 +49,68 @@ Lets make this a sequence of events. *Sheldon Cooper:* 'According to many studie
 
 #### Places I have Visited.
 
+<!--- Import Scripts --->
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
+
+<!--- Create Division --->
 <div id="mapdiv" style="width: 1000px; height: 450px;"></div>
-<div style="width: 1000px; font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;"><a href="https://www.amcharts.com/visited_countries/" style="color: #B4B4B7;">Create your own visited countries map</a> or check out the <a href="https://www.amcharts.com/" style="color: #B4B4B7;">JavaScript Charts</a>.</div>
+
+<!--- Custom Script --->
 <script type="text/javascript">
-var map = AmCharts.makeChart("mapdiv",{
-type: "map",
-theme: "dark",
-projection: "eckert5",
-panEventsEnabled : true,
-backgroundColor : "#535364",
-backgroundAlpha : 1,
-zoomControl: {
-zoomControlEnabled : false
-},
-dataProvider : {
-map : "worldHigh",
-getAreasFromMap : true,
-areas :
-[
-	{
-		"id": "FR",
-		"showAsSelected": true
-	},
-	{
-		"id": "DE",
-		"showAsSelected": true
-	},
-	{
-		"id": "IT",
-		"showAsSelected": true
-	},
-	{
-		"id": "CH",
-		"showAsSelected": true
-	},
-	{
-		"id": "GB",
-		"showAsSelected": true
-	},
-	{
-		"id": "MX",
-		"showAsSelected": true
-	},
-	{
-		"id": "US",
-		"showAsSelected": true
-	},
-	{
-		"id": "EG",
-		"showAsSelected": true
-	},
-	{
-		"id": "CN",
-		"showAsSelected": true
-	},
-	{
-		"id": "IN",
-		"showAsSelected": true
-	},
-	{
-		"id": "JO",
-		"showAsSelected": true
-	},
-	{
-		"id": "KW",
-		"showAsSelected": true
-	},
-	{
-		"id": "LB",
-		"showAsSelected": true
-	},
-	{
-		"id": "NP",
-		"showAsSelected": true
-	},
-	{
-		"id": "OM",
-		"showAsSelected": true
-	},
-	{
-		"id": "QA",
-		"showAsSelected": true
-	},
-	{
-		"id": "SG",
-		"showAsSelected": true
-	},
-	{
-		"id": "SY",
-		"showAsSelected": true
-	},
-	{
-		"id": "AE",
-		"showAsSelected": true
-	}
-]
-},
-areasSettings : {
-autoZoom : true,
-color : "#B4B4B7",
-colorSolid : "#84ADE9",
-selectedColor : "#84ADE9",
-outlineColor : "#666666",
-rollOverColor : "#9EC2F7",
-rollOverOutlineColor : "#000000"
-}
-});
+  // Object Def
+  var map = AmCharts.makeChart("mapdiv",{
+
+    // Map Settings
+    type: "map",
+    theme: "dark",
+    projection: "eckert5",
+    panEventsEnabled : true,
+    backgroundColor : "#FDFDFD",
+    backgroundAlpha : 0,
+    zoomControl: {
+      zoomControlEnabled : false
+    },
+
+    // Country Selection
+    dataProvider : {
+      map : "worldHigh",
+      getAreasFromMap : true,
+      areas : [
+	       {"id": "FR", "showAsSelected": true},
+	       {"id": "DE", "showAsSelected": true},
+	       {"id": "IT", "showAsSelected": true},
+	       {"id": "CH", "showAsSelected": true},
+	       {"id": "GB", "showAsSelected": true},
+	       {"id": "MX", "showAsSelected": true},
+	       {"id": "US", "showAsSelected": true},
+	       {"id": "EG", "showAsSelected": true},
+	       {"id": "CN", "showAsSelected": true},
+	       {"id": "IN", "showAsSelected": true},
+	       {"id": "JO", "showAsSelected": true},
+	       {"id": "KW", "showAsSelected": true},
+	       {"id": "LB", "showAsSelected": true},
+	       {"id": "NP", "showAsSelected": true},
+	       {"id": "OM", "showAsSelected": true},
+	       {"id": "QA", "showAsSelected": true},
+	       {"id": "SG", "showAsSelected": true},
+	       {"id": "SY", "showAsSelected": true},
+	       {"id": "AE", "showAsSelected": true}
+      ]
+    },
+
+    // Country Settings
+    areasSettings : {
+      autoZoom : true,
+      color : "#B4B4B7",
+      colorSolid : "#000000",
+      selectedColor : "#84ADE9",
+      outlineColor : "#FDFDFD",
+      rollOverColor : "#000000",
+      rollOverOutlineColor : "#FDFDFD"
+    }
+  });
 </script>
 
 #### High School Years.
