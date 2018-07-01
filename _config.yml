@@ -1,1 +1,8 @@
+# Theme Setting Var
 theme: jekyll-theme-leap-day
+
+# Title of Main Page
+title: Anirudh Pal's Website
+
+# Short Description
+description: A small window into my hobby, proffesional and academic projects with bits of my personal life thrown in for good measure.
