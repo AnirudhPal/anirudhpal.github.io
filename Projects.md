@@ -1,23 +1,7 @@
 <div class="card">
-  <img src="https://github.com/AnirudhPal/anirudhpal.github.io/blob/master/assets/pics/Test_Pic.jpg?raw=true" alt="Avatar" style="width:100%">
+  <img src="/assets/pics/Started_RasPi.jpg" alt="Avatar" style="width:100%">
   <div class="container">
-    <h4><b>John Doe</b></h4> 
-    <p>Architect & Engineer</p> 
-  </div>
-</div>
-
-<div class="card">
-  <img src="https://github.com/AnirudhPal/anirudhpal.github.io/blob/master/assets/pics/Test_Pic.jpg?raw=true" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4> 
-    <p>Architect & Engineer</p> 
-  </div>
-</div>
-
-<div class="card">
-  <img src="https://github.com/AnirudhPal/anirudhpal.github.io/blob/master/assets/pics/Test_Pic.jpg?raw=true" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4> 
-    <p>Architect & Engineer</p> 
+    <h4><b>Getting started with Raspberry Pi 3 Model B</b></h4> 
+    <p>A very short and straightforward guide to setting up a Raspberry Pi with Raspbian OS.</p> 
   </div>
 </div>
