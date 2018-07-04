@@ -3,7 +3,7 @@
 [**About Me**](/About_Me)
 ===
 
-![This is me!]()
+![This is me!](/assets/pics/My_Face.jpg)
 
 The about me page covers a little bit of my personal side, and the journey I have taken to get to this point in my life. It will no showcase any of my skills, talents or abilities but might give you insight to the factors that have shaped me as an individual. I dont believe in laying my life out their on the Internet for everyone to read, so there is definetly a lot mor too me than what you will read on that page. If my personal life is of interest to you, maybe reach out to me and we can talk.
 
