@@ -1,11 +1,11 @@
-[**About Me**]()
+[**About Me**](/About_Me)
 ===
 
-[**Projects**]()
+[**Projects**](/Projects)
 ===
 
-[**Resume**]()
+[**Resume**](/Resume)
 ===
 
-[**Contact Me**]()
+[**Contact Me**](/Contact_Me)
 ===
