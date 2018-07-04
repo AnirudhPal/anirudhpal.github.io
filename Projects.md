@@ -1,3 +1,8 @@
+[**Back**](/)
+
+Projects
+===
+
 <div class="card">
   <img src="/assets/pics/Start_Pi.jpg" alt="Avatar" style="width:100%">
   <div class="container">
