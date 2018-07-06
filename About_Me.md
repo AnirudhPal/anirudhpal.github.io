@@ -36,8 +36,7 @@ This part of my life was quite interesting. I am very happy that I spent a porti
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
 
 <!--- Create Division (Fix Centering Issues) --->
-<div style="margin: 0 auto; height: 100%; width: 100%;">
-<div id="mapdiv" style="width: 100%; height: 100%;"></div></div>
+<div id="mapdiv" style="width: 100%; height: 800px;"></div>
 
 <!--- Custom Script --->
 <script type="text/javascript">
