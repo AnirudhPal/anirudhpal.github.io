@@ -23,7 +23,7 @@ Lets make this a sequence of events. *Sheldon Cooper:* 'According to many studie
 
 ### Birth on 23 December on 1996 in B.S.P Hospital, Bhilai, Chattisgarh, India.
 
-![childhood](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/10845965_10202615536784718_25816546873617145_n.jpg?oh=b55c254e545b8ebb9bdb46b149613b8f&oe=5AC21EDF "I am the cute baby in the middle.")
+![childhood]( "I am the cute baby in the middle.")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 This part of my life was quite interesting. I am very happy that I spent a portion of life in a joint family. I had absolutely no need for friends as I had enough cousins around me to play with. Although, I do have to say that I glad that my parents had the courage to leave this small town and go where opportunity took them. I use to hate is as a kid, moving from place to place, but now I appreciate the experience it gave me. It also allowed me to dream bigger and aim higher. That being said I do see myself coming back to Bhilai if an opportunity presents itself.
@@ -39,7 +39,7 @@ This part of my life was quite interesting. I am very happy that I spent a porti
 <div id="mapdiv" style="width: 100%; height: 500px;"></div>
 
 <!--- Custom Script --->
-<script type="text/javascript" src="/assets/scripts/Visit_Map.js">
+<script type="text/javascript" src="/assets/scripts/Visits_Map.js">
 </script>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,14 +47,14 @@ I think traveling is something I can claim to have some experience in. I haven't
 
 ### High School Years in Dubai, UAE.
 
-![jbrbeach](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/10626504_285696288291574_428361961027437700_n.jpg?oh=47f61d2b35ef8f257363293d1d71913e&oe=5AB07297 "Visit to the Beach with my BFFs. BTW, I am the person on the top.")
+![jbrbeach]( "Visit to the Beach with my BFFs. BTW, I am the person on the top.")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 High School was by far the best part of my life. Its had its ups and downs but it made me a better person and gave me some definitive direction in life. I also learned to have a little fun and enjoy myself. I experienced everything; getting bad grades, bunking classes, getting into fights, playing sports, partying, working on projects, perusing my crush, sleepovers and some studying.
 
 ### College in West Lafayette, Indiana, USA.
 
-![someriver](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/14611071_10206292075055877_1205835522742700599_n.jpg?oh=c6d1e0562258667c82155667ad41890b&oe=5AB69096 "River Rafting with my friend Harsh. We flipped the boat few moments after this picture.")
+![someriver]( "River Rafting with my friend Harsh. We flipped the boat few moments after this picture.")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I am in College right now so I don't have a whole lot to recollect. In a nutshell, I am doing pretty good at college and like any other college students I am trying to figure out where I wanna take my life. In the mean time I occasionally try to enjoy myself and experience new things and meet new people.
