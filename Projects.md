@@ -6,10 +6,10 @@ Projects
 
 <div class="card">
   <a href="/">
-  <img src="/assets/pics/Start_Pi.jpg" alt="Avatar" style="width:100%">
+  <img src="/assets/pics/Haas.PNG" alt="Avatar" style="width:100%">
   <div class="container">
-    <h4><b>Getting started with Raspberry Pi 3 Model B</b></h4> 
-    <p>A very short and straightforward guide to setting up a Raspberry Pi with Raspbian OS.</p> 
+    <h4><b>Hacking HAAS CNC Equipment</b></h4> 
+    <p>These CNCs are the work-horses of American manufacturing. So, it came as a shock to me that they are not fully utilized or exploited. Here is an account of a small subset of what is possible.</p> 
   </div>
   </a>
 </div>
