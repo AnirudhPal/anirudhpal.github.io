@@ -4,7 +4,7 @@ Projects
 ===
 
 <div class="card">
-  <a href="/">
+  <a href="/projects/OpenDNC">
   <img src="/assets/pics/Haas.PNG" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Hacking HAAS CNC Equipment</b></h4> 
